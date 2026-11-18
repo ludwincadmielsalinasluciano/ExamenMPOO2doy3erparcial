@@ -1,4 +1,4 @@
-﻿package mx.unam.fi.mpoo.parkmanager.dto;
+package mx.unam.fi.mpoo.parkmanager.dto;
 
 public class DescuentoRequest {
     

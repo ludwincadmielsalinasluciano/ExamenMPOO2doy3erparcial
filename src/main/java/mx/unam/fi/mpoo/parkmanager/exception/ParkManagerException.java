@@ -1,4 +1,4 @@
-﻿package mx.unam.fi.mpoo.parkmanager.exception;
+package mx.unam.fi.mpoo.parkmanager.exception;
 
 public abstract class ParkManagerException extends RuntimeException {
     

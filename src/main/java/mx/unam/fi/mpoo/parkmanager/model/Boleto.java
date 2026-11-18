@@ -1,4 +1,4 @@
-﻿package mx.unam.fi.mpoo.parkmanager.model;
+package mx.unam.fi.mpoo.parkmanager.model;
 
 import mx.unam.fi.mpoo.parkmanager.exception.CantidadInvalidaException;
 import mx.unam.fi.mpoo.parkmanager.exception.DescuentoInvalidoException;

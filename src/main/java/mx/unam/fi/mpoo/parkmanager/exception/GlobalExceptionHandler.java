@@ -1,4 +1,4 @@
-﻿package mx.unam.fi.mpoo.parkmanager.exception;
+package mx.unam.fi.mpoo.parkmanager.exception;
 
 import mx.unam.fi.mpoo.parkmanager.dto.ErrorResponse;
 import org.springframework.http.HttpStatus;

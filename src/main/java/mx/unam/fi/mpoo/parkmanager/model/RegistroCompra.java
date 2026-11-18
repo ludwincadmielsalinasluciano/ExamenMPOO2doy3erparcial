@@ -1,4 +1,4 @@
-﻿package mx.unam.fi.mpoo.parkmanager.model;
+package mx.unam.fi.mpoo.parkmanager.model;
 
 import java.math.BigDecimal;
 
